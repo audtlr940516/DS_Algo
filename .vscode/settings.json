@@ -1,0 +1,7 @@
+{
+    "editor.suggest.selectionMode": "never",
+    "editor.suggestOnTriggerCharacters": false,
+    "css.completion.triggerPropertyValueCompletion": true,
+    "less.completion.triggerPropertyValueCompletion": true,
+    "scss.completion.triggerPropertyValueCompletion": true
+}
